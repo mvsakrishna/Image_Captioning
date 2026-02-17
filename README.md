@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://tensorflow.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red)](https://pytorch.org)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 > **Paper:** *Image Captioning: A Comparative Evaluation of CNN-LSTM,
 > BERT-Transformer, and ResNet18-Transformer*  
@@ -371,8 +370,3 @@ If you use this code or the paper, please cite:
   note      = {\url{https://github.com/mvsakrishna/AI_ImageCaptioning}}
 }
 ```
-
----
-
-## License
-

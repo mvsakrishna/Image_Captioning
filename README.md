@@ -377,4 +377,3 @@ If you use this code or the paper, please cite:
 
 ## License
 
-MIT License — see [LICENSE](LICENSE) for details.

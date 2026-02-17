@@ -365,10 +365,9 @@ If you use this code or the paper, please cite:
 ```bibtex
 @inproceedings{munagala2024imagecap,
   author    = {Abhinav Munagala},
-  title     = {Image Captioning: A Comparative Evaluation of
-               CNN-LSTM, BERT-Transformer, and ResNet18-Transformer},
+  title     = {Deep Neural Models for Image Captioning: An Empirical Comparison},
   booktitle = {Proceedings of the IEEE Conference},
-  year      = {2024},
+  year      = {2023},
   note      = {\url{https://github.com/mvsakrishna/AI_ImageCaptioning}}
 }
 ```

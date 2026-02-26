@@ -36,24 +36,12 @@ captioning architectures evaluated on the **Flickr8k** dataset:
 ## Repository Structure
 
 ```
-AI_ImageCaptioning/
+Image_Captioning/
 │
 ├── cnn_lstm_captioning.py            ← Model 1: InceptionV3 + LSTM
 ├── bert_transformer_captioning.py    ← Model 2: ViT + BERT
 ├── resnet18_transformer_captioning.py← Model 3: ResNet-18 + Transformer (TransCapNet)
 │
-├── data/                             ← Put Flickr8k data here (see below)
-│   ├── Images/                       ← JPEG images
-│   └── captions.txt                  ← Tab-separated captions file
-│
-├── models/                           ← Saved checkpoints (auto-created)
-│   ├── cnn_lstm/
-│   ├── bert_transformer/
-│   └── resnet_transformer/
-│
-├── figures/                          ← Architecture diagrams for the paper
-│
-├── requirements.txt                  ← Python dependencies
 └── README.md
 ```
 

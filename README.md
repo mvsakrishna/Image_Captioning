@@ -353,7 +353,6 @@ If you use this code or the paper, please cite:
 @inproceedings{munagala2024imagecap,
   author    = {Abhinav Munagala},
   title     = {Deep Neural Models for Image Captioning: An Empirical Comparison},
-  booktitle = {Proceedings of the IEEE Conference},
   year      = {2023},
   note      = {\url{https://github.com/mvsakrishna/AI_ImageCaptioning}}
 }
